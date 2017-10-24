@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.js","app1.js"],"names":["alert","sim"],"mappings":";;;;;AAAAA,MAAM,OAAN;AACO,IAAMC,oBAAM,MAAZ;;;ACDP;;AACAD;AACAA,MAAM,YAAN","file":"bundle.js","sourcesContent":["alert('sim 2')\nexport const sim = 'test';\n","import { sim } from './app';\nalert(sim);\nalert('ai ssm 222')\n"]}

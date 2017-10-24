@@ -1,0 +1,11 @@
+{
+  "root": {
+    "src": "./app",
+    "dest": "./public",
+    "html": {
+      "title": "Front-end Kit",
+      "script": "<script type=\"text/javascript\" src=\"bundle.js\"></script>",
+      "style": "<link rel=\"stylesheet\" href=\"main.css\" media=\"screen\">"
+    }
+  }
+}
